@@ -138,5 +138,3 @@ static/
 
 # macOS files
 .DS_Store
-
-settings.py
